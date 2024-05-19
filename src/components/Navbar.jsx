@@ -21,7 +21,7 @@ const NavbarComponent = () => {
       </div>
       <div className="navbar/body flex items-center justify-between py-4 gap-11">
         <div className="logo">
-          <img src="/images/logo2.jpg" className="w-[180px] h-[50px]" alt="" />
+          <img src="https://i.pinimg.com/originals/fa/f9/69/faf96993715ed4ee9263a0916b1fa0ce.png" className="w-[180px] h-[50px]" alt="" />
         </div>
         <div className="searchbar relative w-full">
           <div className="searchbar-wrapper w-full bg-white relative p-2">
